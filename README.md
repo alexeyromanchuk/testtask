@@ -2,6 +2,7 @@
 
 Ниже приведена иллюстрация к тому, что необходимо получить на выходе. Эскизы сделаны исходя из мобильной верстки.
 
+![alt text](https://raw.githubusercontent.com/alexeyromanchuk/testtask/master/prototypes.png)
 
 ## Экран первый - наблюдение за курсами валют
 
